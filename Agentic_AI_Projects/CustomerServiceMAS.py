@@ -97,7 +97,7 @@ crewCSMAS = Crew(
 
 inputs = {
     "customer": "Unfold data science",
-    "person": "Aman Kumar",
+    "person": "Gitika Chhabra",
     "inquiry": "I need help with Crew AI "
                "and Understanding about Crew and Agent "
                "How to use Crew and Agent in CrewAI "
